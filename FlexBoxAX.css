@@ -1,0 +1,17 @@
+﻿.FlexContainer_Row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-basis:100%;
+    overflow-x:hidden;
+}
+.FlixItem_Images{
+    height:60vh;
+    width:auto;
+    z-index:0;
+}
+#MkFiveNumOne {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
